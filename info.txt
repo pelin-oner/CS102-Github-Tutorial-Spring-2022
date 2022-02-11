@@ -1,2 +1,131 @@
 Pelin Öner-221012409-https://github.com/pelin-oner 
 paper mario
+Output:
+
+Pelin@DESKTOP-1D4E3O1 MINGW64 ~
+$ cd /c/Users/Pelin/Masaüstü/CS102-Github-Tutorial-Spring-2022
+
+Pelin@DESKTOP-1D4E3O1 MINGW64 ~/Masaüstü/CS102-Github-Tutorial-Spring-2022 (main)
+$ git log
+commit 5ff1124a8745425099b3de5e88fae2272039fe2c (HEAD -> main)
+Merge: 1cc7547 1d21fab
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 12:11:14 2022 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 1d21fab60fabc5318d148df9332f3f06876f9fa7 (origin/main, origin/HEAD)
+Merge: ece4fdc a036fee
+Author: Pelin Oner <91345581+pelin-oner@users.noreply.github.com>
+Date:   Fri Feb 11 12:10:09 2022 +0300
+
+    Merge pull request #1 from pelin-oner/new_information
+
+    New information
+
+commit a036feef8e821b4cee4ed07b544a635d3d2e12a8 (origin/new_information)
+Merge: 594dfe0 ece4fdc
+Author: Pelin Oner <91345581+pelin-oner@users.noreply.github.com>
+Date:   Fri Feb 11 12:08:37 2022 +0300
+
+    Merge branch 'main' into new_information
+
+:...skipping...
+commit 5ff1124a8745425099b3de5e88fae2272039fe2c (HEAD -> main)
+Merge: 1cc7547 1d21fab
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 12:11:14 2022 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 1d21fab60fabc5318d148df9332f3f06876f9fa7 (origin/main, origin/HEAD)
+Merge: ece4fdc a036fee
+Author: Pelin Oner <91345581+pelin-oner@users.noreply.github.com>
+Date:   Fri Feb 11 12:10:09 2022 +0300
+
+    Merge pull request #1 from pelin-oner/new_information
+
+    New information
+
+commit a036feef8e821b4cee4ed07b544a635d3d2e12a8 (origin/new_information)
+Merge: 594dfe0 ece4fdc
+Author: Pelin Oner <91345581+pelin-oner@users.noreply.github.com>
+Date:   Fri Feb 11 12:08:37 2022 +0300
+
+    Merge branch 'main' into new_information
+
+commit 1cc7547ae5106a320a603e3086698828caeac863
+Merge: 37e74c7 594dfe0
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 12:05:42 2022 +0300
+
+    Merge branch 'new_information' into main
+
+commit 594dfe02bc02b23202b9aa087e265df4e27f9bd8 (new_information)
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 12:02:19 2022 +0300
+
+    update game name
+
+commit 37e74c7b1752ae8f8c32b1694bb216a6cb57f369
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 11:53:03 2022 +0300
+
+    Pelin_Öner updated info.txt
+
+commit ece4fdc1ff2de5b5c9f77835f8b9bf5f11523180
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 11:53:03 2022 +0300
+
+    updated info.txt
+
+:
+commit 5ff1124a8745425099b3de5e88fae2272039fe2c (HEAD -> main)
+Merge: 1cc7547 1d21fab
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 12:11:14 2022 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 1d21fab60fabc5318d148df9332f3f06876f9fa7 (origin/main, origin/HEAD)
+Merge: ece4fdc a036fee
+Author: Pelin Oner <91345581+pelin-oner@users.noreply.github.com>
+Date:   Fri Feb 11 12:10:09 2022 +0300
+
+    Merge pull request #1 from pelin-oner/new_information
+
+    New information
+
+commit a036feef8e821b4cee4ed07b544a635d3d2e12a8 (origin/new_information)
+Merge: 594dfe0 ece4fdc
+Author: Pelin Oner <91345581+pelin-oner@users.noreply.github.com>
+Date:   Fri Feb 11 12:08:37 2022 +0300
+
+    Merge branch 'main' into new_information
+
+commit 1cc7547ae5106a320a603e3086698828caeac863
+Merge: 37e74c7 594dfe0
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 12:05:42 2022 +0300
+
+    Merge branch 'new_information' into main
+
+commit 594dfe02bc02b23202b9aa087e265df4e27f9bd8 (new_information)
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 12:02:19 2022 +0300
+
+    update game name
+
+commit 37e74c7b1752ae8f8c32b1694bb216a6cb57f369
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 11:53:03 2022 +0300
+
+    Pelin_Öner updated info.txt
+
+commit ece4fdc1ff2de5b5c9f77835f8b9bf5f11523180
+Author: Pelin Öner <plnoner2003@gmail.com>
+Date:   Fri Feb 11 11:53:03 2022 +0300
+
+    updated info.txt
+
+:
